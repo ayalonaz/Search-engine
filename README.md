@@ -48,8 +48,8 @@
     •	Creating 2 new schemas on the Postgres server, each schema will be used for a different rule. 
   
     •	Entering parameters, which provide login information for the desired schema on the server, into URL Given in the manual and running the script that build tables       to results schema, given by the web page, in PostgreSQL server.
-    [link to script]
-    (https://github.com/nadavlab/Hadassah_OMOP/blob/main/Sql%20Scripts/cdm_config_webAPI.sql)
+      [link to script]
+      (https://github.com/nadavlab/Hadassah_OMOP/blob/main/Sql%20Scripts/cdm_config_webAPI.sql)
 
     •	 Changing parameters in the script given to us by Git and running it to build the Source tables and connect us to the desired schema to the atlas.
   
