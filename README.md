@@ -54,4 +54,4 @@
     •	 Changing parameters in the script given to us by Git and running it to build the Source tables and connect us to the desired schema to the atlas.
   
     •	 Running the software Achilles in the language R And inserting the results of the run into a scheme we initially created. 
-       The Achilles is used to analyze the data of the tables visually.
+         The Achilles is used to analyze the data of the tables visually.
