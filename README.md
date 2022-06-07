@@ -1,14 +1,9 @@
-# Hadassah_OMOP
-
-# Building the server and application
- 
-
+# Hadassah_OMOP- Building the server and application
 ## Permissions
 ### These permissions were granted by the Computer Department at Ben-Gurion University and the permissions are-
   •	To the remote server
   •	 For a compose tool
   •	The tool through which you can connect to the server PostgreSQL Via the remote server Using the command psql In Linux.
-
 ## Installations
 ### Steps to set up a server Postgres And uploading the app OHDSI:
 •	clone to Git: OHDSI: https://github.com/OHDSI/Broadsea-WebTools 
@@ -36,7 +31,6 @@
 
   •	Build constraints using a SQL script on each table.
     [link to script] (https://github.com/nadavlab/Hadassah_OMOP/blob/main/Sql%20Scripts/omop_constraints_load.sql)
-
 ## connections
 ### Connections during project execution: 
 •	Connection to the university's remote server
