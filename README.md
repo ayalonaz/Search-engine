@@ -42,7 +42,10 @@
     [link to script] (https://github.com/nadavlab/Hadassah_OMOP/blob/main/Sql%20Scripts/omop_constraints_load.sql)
 ## connections
 ### Connections during project execution: 
-•	Connection to the university's remote server
+•	Connection to the university's remote server:
+     • connect to BGU VPN with personal code.
+     • connect to remote server threw VM with personal password.
+     • connect to data base in postgreSQL server threw the remote server.
 
 • Perform the steps for connecting the desired consent from the PostgreSQL server To Atlas According to the Git - https://github.com/OHDSI/WebAPI/wiki/CDMConfiguration:
     •	Creating 2 new schemas on the Postgres server, each schema will be used for a different rule. 
